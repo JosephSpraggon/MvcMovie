@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T2yHSMMV6y9YVstFwRnFrcj7eaD6cQdU2qc/luyDBlzLr0Cu+oD/elPAdiiujXfxWo4rQzGOreP6TDvEpoCFlQ==",
+  "dgSpecHash": "KtEoOKk3+zOihUslsfaQN9+gMnoBNbRJzS49P3cEAhSzc7Kilzjn1ULi7a+CXwqTiQPnaKRzMJKevv3qDdfv9g==",
   "success": true,
-  "projectFilePath": "/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/joespraggon/coding-projects/MvcMovie/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

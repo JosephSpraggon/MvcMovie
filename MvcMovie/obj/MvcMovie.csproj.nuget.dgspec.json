@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/MvcMovie.csproj": {}
+    "/Users/joespraggon/coding-projects/MvcMovie/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/MvcMovie.csproj": {
+    "/Users/joespraggon/coding-projects/MvcMovie/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/Users/joespraggon/coding-projects/MvcMovie/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/Users/joespraggon/coding-projects/MvcMovie/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/Users/joespraggon/.nuget/packages/",
-        "outputPath": "/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/obj/",
+        "outputPath": "/Users/joespraggon/coding-projects/MvcMovie/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joespraggon/.config/NuGet/NuGet.Config"

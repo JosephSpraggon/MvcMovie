@@ -35,3 +35,4 @@
 /Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.pdb
 /Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.genruntimeconfig.cache
 /Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/MvcMovie.csproj.CopyComplete
+/Users/joespraggon/coding-projects/visual-studio-projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp3.1/Razor/Views/HelloWorld/Index.cshtml.g.cs
